@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="688149a6-1c51-47f7-b4b9-eb2895589dd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/PetStoreAutomationTestReport-2025.05.03.10.05.23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/PetStoreAutomationTestReport-2025.15.03.10.15.06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/PetStoreAutomationTestReport-2025.26.03.10.26.08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/PetStoreAutomationTestReport-2025.31.03.10.31.46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/Routes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/endpoints/userEndPoints2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/payload/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/testcases/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/testcases/UserTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/testcases/UserTestDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/utilities/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/utilities/ExtentListenerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/utilities/ReadExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Routes.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2vDsCIZr3nCGBGE7h6wXrd689bI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.PetStore [clean].executor": "Run",
+    "Maven.PetStore [install].executor": "Run",
+    "Maven.PetStore [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/Workspace/PetStore/testng.xml.executor": "Run",
+    "TestNG.UserTest.executor": "Run",
+    "TestNG.UserTest2.executor": "Run",
+    "TestNG.UserTestDD.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Workspace/PetStore/src/test/java/api/testcases"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\PetStore\src\test\java\api\testcases" />
+      <recent name="D:\Workspace\PetStore\src\test\java\api\endpoints" />
+      <recent name="D:\Workspace\PetStore\src\test\resources" />
+      <recent name="D:\Workspace\PetStore\src\test\java\resources" />
+      <recent name="D:\Workspace\PetStore" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/Workspace/PetStore/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.testcases" />
+      <option name="MAIN_CLASS_NAME" value="api.testcases.UserTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTestDD" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.testcases" />
+      <option name="MAIN_CLASS_NAME" value="api.testcases.UserTestDD" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserTest2" />
+        <item itemvalue="TestNG.D:/Workspace/PetStore/testng.xml" />
+        <item itemvalue="TestNG.UserTestDD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688149a6-1c51-47f7-b4b9-eb2895589dd6" name="Changes" comment="" />
+      <created>1743690852345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743690852345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
