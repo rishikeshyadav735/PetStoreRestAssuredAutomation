@@ -32,8 +32,8 @@ This project provides automated API testing for the [Swagger PetStore API](https
 
 Running Tests
 To execute the tests, use the following command:
-
 mvn test
+
 Alternatively, run tests via TestNG or using the Cucumber runner class in your IDE.
 
 Generating Reports
