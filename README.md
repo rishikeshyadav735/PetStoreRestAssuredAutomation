@@ -36,17 +36,27 @@ mvn test
 
 Alternatively, run tests via TestNG or using the Cucumber runner class in your IDE.
 
-Generating Reports
-After test execution, an Extent Report is generated. Navigate to:
+📊 Reporting
+After execution, a detailed Extent Report is generated at:
+test-output/ExtentReport.html
 
-target/reports/extent-report.html
-Open this file in a browser to view the test execution report.
+📓 Features Covered
+✅ Add a new pet
 
-Logging
-Logs are stored in the logs folder and managed using Log4j. You can modify logging levels in the log4j.properties file.
+✅ Get pet by ID
 
-Contribution
-Feel free to raise issues or submit pull requests to improve this framework.
+✅ Update pet details
 
-Happy Testing! 🚀
+✅ Delete pet
 
+✅ Negative testing and validations
+
+🛠️ Logging
+All logs are managed using Log4j and saved in:
+logs/application.log
+
+📬 API Reference
+This project is based on Swagger PetStore OpenAPI Spec.
+
+🤝 Contributions
+Feel free to fork and raise a pull request. Suggestions and improvements are welcome!
